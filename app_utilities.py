@@ -191,8 +191,8 @@ def process_video_frames(video_file):
                 w = x2 - x1
                 h = y2 - y1
 
-                color = (0, 0, 255)
-                cv2.rectangle(og_frame, (int(x1), int(y1)), (int(x1 + w), int(y1 + h)), color, 5)
+                # color = (0, 0, 255)
+                # cv2.rectangle(og_frame, (int(x1), int(y1)), (int(x1 + w), int(y1 + h)), color, 5)
 
                 unique_track_ids.add(track_id)
 
