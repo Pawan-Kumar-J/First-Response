@@ -46,7 +46,10 @@ ___
     pip install -r requirements.txt
     ```
 
-3. Run the app:
+3. Download Model.
+   Downlaod model from https://drive.google.com/file/d/1Vb9Ly6KxAbhdqIU1XJLbd9SPMPNdMY7k/view?usp=sharing link and place it in same folder. (Make sure name of the file is "best (1).pt")
+
+4. Run the app:
 
     ```bash
     streamlit run first_response_app.py
