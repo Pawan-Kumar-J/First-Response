@@ -19,7 +19,7 @@ ___
    - The app calculates the total number of people to be rescued, the count of wounded individuals, and the number of those considered normal.
 
 4. **Resource Estimation:**
-   - Utilizes a Situation Level Model (SLM) or a Location Level Model (LLM) to generate reports estimating the resources required for effective rescue operations.
+   - Utilizes a Small Language Model (SLM) or a Large Language Model (LLM) to generate reports estimating the resources required for effective rescue operations.
 
 5. **Medical Assessment:**
    - Displays images of wounded individuals, aiding medical personnel in prioritizing treatment based on the severity of injuries.
