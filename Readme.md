@@ -22,7 +22,7 @@ ___
    - Utilizes a Situation Level Model (SLM) or a Location Level Model (LLM) to generate reports estimating the resources required for effective rescue operations.
 
 5. **Medical Assessment:**
-   - Displays heatmaps of wounded individuals, aiding medical personnel in prioritizing treatment based on the severity of injuries.
+   - Displays images of wounded individuals, aiding medical personnel in prioritizing treatment based on the severity of injuries.
 
 ## Technologies Used
 
@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ***
 Demo Video Link : https://youtu.be/QsDUO4I8RAE
+
 **Summary:**
 In the disaster-affected area, a total of 142 individuals have been identified for rescue. Among them, 17 are wounded and require medical attention.
 
