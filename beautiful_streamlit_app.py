@@ -3,7 +3,7 @@ from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.row import row
 from app_utilities import *
 
-weights_path = "./yolov8n"
+weights_path = "./best (1).pt"
 target_fps = 5
 
 # Set page configuration and layout
