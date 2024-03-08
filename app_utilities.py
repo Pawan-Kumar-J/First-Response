@@ -55,7 +55,7 @@ def process_video_frames(video_file, weights_path, target_fps):
                 xywh = boxes.xywh
 
                 for idx, (x1, y1, x2, y2) in enumerate(xyxy):
-                    color = (0, 255, 0) if cls[idx] == 0 else (0, 0, 255)
+                    color = (0, 255, 0) if cls[idx] == 0 else (255, 0, 0)
                     cv2.rectangle(og_frame, (int(x1), int(y1)), (int(x2), int(y2)), color, 5)
 
                     track_id = f"{cls[idx]}_{idx}"  # Assuming cls[idx] is 0 for normal and 1 for wounded
